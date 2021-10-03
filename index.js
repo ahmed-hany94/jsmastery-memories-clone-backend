@@ -27,4 +27,4 @@ mongoose
       console.log(`Server running on http://localhost:${PORT}`)
     )
   )
-  .catch((err) => console.log(err.message()));
+  .catch((err) => console.log(err.message));
